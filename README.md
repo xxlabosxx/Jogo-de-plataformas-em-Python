@@ -4,7 +4,7 @@ Um jogo de plataforma 2D clássico desenvolvido em Python utilizando a bibliotec
 **Tecnologias e Conceitos Utilizados**
 Linguagem: Python 3.x.
 
-Framework: Pygame Zero (pgzero).
+Framework: Pygame Zero (pgzero). 
 
 POO (Programação Orientada a Objetos): Classes personalizadas para gerenciamento de animações do herói e dos inimigos.
 
