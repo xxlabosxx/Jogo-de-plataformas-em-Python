@@ -49,21 +49,19 @@ pip install pgzero
 3. Estrutura de Pastas
 Para que o jogo funcione corretamente, os assets (imagens e sons) devem estar organizados da seguinte forma:
 
-Plaintext
-pasta_do_projeto/
 
 pasta_do_projeto/
-├── jogo.py                # O arquivo de código principal
-├── images/                # Pasta contendo os sprites (.png)
-│   ├── idle_frame0.png
-│   ├── walk_frame0.png
-│   ├── coin.png
-│   └── ...
-└── sounds/                # Pasta contendo os áudios (.wav ou .ogg)
-    ├── jump.wav
-    ├── hit.wav
-    ├── music.ogg
-    └── ...
+jogo.py                # O arquivo de código principal
+images/                # Pasta contendo os sprites (.png)
+    idle_frame0.png
+    walk_frame0.png
+    coin.png
+    ...
+    sounds/                # Pasta contendo os áudios (.wav ou .ogg)
+        jump.wav
+        hit.wav
+        music.ogg
+        ...
     
 4. Execução
 Com o terminal aberto na pasta do projeto, execute o comando:
